@@ -1,3 +1,3 @@
-<?php
-    $x = 'Changes in the same line from the first repo';
+ <?php
+    $x = 'the merged line';
     
