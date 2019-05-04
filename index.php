@@ -1,6 +1,3 @@
-<? php 
-    $x = 'Benvenuto negli elementi essenziali di Git e Github per il repository degli sviluppatori web';
-
-    echo $x;
-
+<?php
+    $x = 'Welcome to the Git and Github essentials for web developers and programmers repo';
     
